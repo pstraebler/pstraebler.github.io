@@ -1,0 +1,16 @@
+<div style="text-align: center;">
+  <iframe 
+    width="600" 
+    height="450" 
+    frameborder="0" 
+    style="border:0; display: inline-block;" 
+    src="https://www.openstreetmap.org/export/embed.html?bbox={{ .Get "bbox" }}&layer=mapnik&marker={{ .Get "lat" }}%2C{{ .Get "lon" }}" 
+    allowfullscreen>
+  </iframe>
+  <p>
+    <a href="https://www.openstreetmap.org/?mlat={{ .Get "lat" }}&mlon={{ .Get "lon" }}#map={{ .Get "zoom" }}/{{ .Get "lat" }}/{{ .Get "lon" }}">
+Ouvrir sur OpenStreetMap
+    </a>
+  </p>
+</div>
+

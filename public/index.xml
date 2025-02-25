@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre Straëbler</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Pierre Straëbler</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 24 Sep 2024 22:52:28 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/enseignement/</link>
+      <pubDate>Tue, 24 Sep 2024 22:52:28 +0200</pubDate>
+      <guid>http://localhost:1313/enseignement/</guid>
+      <description>Depuis septembre 2023, je suis chargé de TP à l&amp;rsquo;IUT d&amp;rsquo;Orsay (Université Paris-Saclay).&#xA;J&amp;rsquo;interviens en 1ère, 2ème et 3ème années de BUT Informatique, dans les cours de :&#xA;Base des réseaux (Semestre 2 - par Xavier Lacour)&#xA;Virtualisation / Conteneurisation (Semestre 4 - par Olivier Payet)&#xA;Automatisation de déploiement logiciel (Semestre 5 - par Agata Savary)&#xA;Virtualisation avancée (Docker, Kubernetes, AWS) (Semestre 5 - par Tara Yahiya) </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/infra/</link>
+      <pubDate>Tue, 24 Sep 2024 22:25:21 +0200</pubDate>
+      <guid>http://localhost:1313/infra/</guid>
+      <description>J&amp;rsquo;occupe le poste d&amp;rsquo;ingénieur systèmes depuis septembre 2019, au Centre de Mathématiques Appliquées, situé à l&amp;rsquo;École polytechnique.&#xA;Le CMAP est un laboratoire de recherche qui mène des études dans le domaine des mathématiques, en interaction avec d&#39;autres sciences (biologie, économie, informatique, mécanique, physique, etc.) ou en lien avec des applications industrielles ou sociétales. Il est spécialisé l&#39;analyse numérique, le calcul scientifique, l&#39;intelligence artificielle, la modélisation, l&#39;optimisation, les probabilités, le signal, la statistique, etc.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 10 Aug 2023 12:00:19 +0200</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>N&amp;rsquo;hésitez pas à me contacter par mail, ou au 01.69.33.45.77.&#xA;Mon bureau est situé dans l&amp;rsquo;aile 0 des laboratoires de l&amp;rsquo;École polytechnique, bureau 00 2032.&#xA;Ouvrir sur OpenStreetMap </description>
+    </item>
+  </channel>
+</rss>
