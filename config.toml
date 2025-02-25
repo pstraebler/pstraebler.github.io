@@ -1,4 +1,4 @@
-baseURL = "https://pstraebler.github.io"
+baseURL = "https://pierre.straebler.fr"
 publishDir = "public"
 title = "Pierre Straëbler"
 theme = "hugo-coder"
