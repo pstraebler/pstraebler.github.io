@@ -17,7 +17,7 @@ author = "Pierre Straëbler"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Pierre Straebler  personal website"
 keywords = "adminsys,engineer,linux,,personal"
-info = ["_Ingénieur systèmes spécialisé en Linux et dans les outils open source_"," ","Ingénieur systèmes à l'École polytechnique","Chargé de TP à l'IUT d'Orsay"]
+info = ["_Ingénieur systèmes à l'École polytechnique_"," ","Responsable informatique du Centre de Mathématiques Appliquées","Chargé de TP à l'IUT d'Orsay"]
 #info = ["Full Stack DevOps", "Magician"]
 avatarURL = "/ps.png"
 #gravatar = "john.doe@example.com"
