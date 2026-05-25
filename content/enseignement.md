@@ -4,7 +4,7 @@ date: 2024-09-24T22:52:28+02:00
 draft: false
 ---
 
-Depuis septembre 2023, je suis chargé de TP à l'[IUT d'Orsay](https://www.iut-orsay.universite-paris-saclay.fr/) ([Université Paris-Saclay](https://www.universite-paris-saclay.fr/)).  
+De septembre 2023 à juin 2025, j'ai été chargé de TP à l'[IUT d'Orsay](https://www.iut-orsay.universite-paris-saclay.fr/) ([Université Paris-Saclay](https://www.universite-paris-saclay.fr/)).  
 
 J'interviens en 1ère, 2ème et 3ème années de BUT Informatique, dans les cours de :
 
