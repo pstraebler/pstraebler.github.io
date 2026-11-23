@@ -4,13 +4,13 @@ date: 2024-09-24T22:25:21+02:00
 draft: false
 ---
 
-J'occupe le poste d'ingénieur systèmes depuis septembre 2019, au [Centre de Mathématiques Appliquées](https://cmap.ip-paris.fr/), situé à l'[École polytechnique](http://portail.polytechnique.edu//).   
+Je suis responsable informatique du [Centre de Mathématiques Appliquées](https://cmap.ip-paris.fr/), situé à l'[École polytechnique](http://portail.polytechnique.edu//).   
 Le CMAP est un laboratoire de recherche qui mène des études dans le domaine des mathématiques, en interaction avec d&#039;autres sciences (biologie, économie, informatique, mécanique, physique, etc.) ou en lien avec des applications industrielles ou sociétales.
 Il est spécialisé dans l&#039;analyse numérique, le calcul scientifique, l&#039;intelligence artificielle, la modélisation, l&#039;optimisation, les probabilités, le signal, la statistique, etc.
 
 Ces domaines s'appuient sur l'informatique, qui joue un rôle clé dans le développement de modèles mathématiques complexes et la réalisation de simulations numériques avancées.
 
-### Administration systèmes
+### Infrastructure
 
 Je suis en charge de la gestion du système informatique du CMAP, avec pour pinrcipales missions :
 
